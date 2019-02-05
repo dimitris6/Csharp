@@ -1,0 +1,12 @@
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\bin\Debug\dtheodoridesHW6.exe.config
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\bin\Debug\dtheodoridesHW6.exe
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\bin\Debug\dtheodoridesHW6.pdb
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.csprojResolveAssemblyReference.cache
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.Form1.resources
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.Properties.Resources.resources
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.csproj.GenerateResource.Cache
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.exe
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.pdb
+C:\Users\DimitrisTh\Desktop\Introduction to C#\dtheodoridesHW6\dtheodoridesHW6\bin\Debug\dtheodoridesHW6.exe.config
+C:\Users\DimitrisTh\Desktop\Introduction to C#\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.exe
+C:\Users\DimitrisTh\Desktop\Introduction to C#\dtheodoridesHW6\dtheodoridesHW6\obj\Debug\dtheodoridesHW6.pdb

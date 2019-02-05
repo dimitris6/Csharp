@@ -1,0 +1,6 @@
+SUV,80,JEEP
+minivan,70,DODGE
+luxury,50,CADILLAC
+fullsize,40,NISSAN
+midsize,35,CIVIC
+compact,25,VERSA

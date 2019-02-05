@@ -1,0 +1,39 @@
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe.config
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.pdb
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csprojResolveAssemblyReference.cache
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.aceAutoRentals.resources
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.Properties.Resources.resources
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csproj.GenerateResource.Cache
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.exe
+C:\Users\DimitrisTh\Desktop\dtheodoridesHW3\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.pdb
+E:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe.config
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.exe
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.pdb
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csprojResolveAssemblyReference.cache
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.aceAutoRentals.resources
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.Properties.Resources.resources
+E:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csproj.GenerateResource.Cache
+E:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe
+E:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.pdb
+D:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe.config
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.exe
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.pdb
+D:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.exe
+D:\AceAutoRentals\AceAutoRentals\bin\Debug\AceAutoRentals.pdb
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csprojResolveAssemblyReference.cache
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.aceAutoRentals.resources
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.Properties.Resources.resources
+D:\AceAutoRentals\AceAutoRentals\obj\Debug\AceAutoRentals.csproj.GenerateResource.Cache
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\bin\Debug\AceAutoRentals.exe.config
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.exe
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.pdb
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.csprojResolveAssemblyReference.cache
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.aceAutoRentals.resources
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.Properties.Resources.resources
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.csproj.GenerateResource.Cache
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\bin\Debug\AceAutoRentals.exe
+C:\Users\DimitrisTh\Desktop\AceAutoRentalsCH8\AceAutoRentals\bin\Debug\AceAutoRentals.pdb
+C:\Users\DimitrisTh\Desktop\Introduction to C#\AceAutoRentalsCH8\AceAutoRentals\bin\Debug\AceAutoRentals.exe.config
+C:\Users\DimitrisTh\Desktop\Introduction to C#\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.exe
+C:\Users\DimitrisTh\Desktop\Introduction to C#\AceAutoRentalsCH8\AceAutoRentals\obj\Debug\AceAutoRentals.pdb

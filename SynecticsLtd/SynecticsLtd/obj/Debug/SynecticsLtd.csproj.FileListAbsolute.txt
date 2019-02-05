@@ -1,0 +1,12 @@
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.exe.config
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.exe
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.pdb
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.csprojResolveAssemblyReference.cache
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.exe
+C:\Users\DimitrisTh\Desktop\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.pdb
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.exe.config
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.exe
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.pdb
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.exe
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\bin\Debug\SynecticsLtd.pdb
+C:\Users\DimitrisTh\Desktop\Introduction to C#\SynecticsLtd\SynecticsLtd\obj\Debug\SynecticsLtd.csprojResolveAssemblyReference.cache
